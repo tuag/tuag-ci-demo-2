@@ -1,0 +1,14 @@
+uuid: 191be2b5-f10e-4954-938e-3c41ff6fa675
+name: tuag-ci-demo-2
+mail: useradvocate@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
